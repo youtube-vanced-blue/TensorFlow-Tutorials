@@ -59,6 +59,7 @@ The following tutorials have been updated and work with **TensorFlow 2**
 23. Time-Series Prediction
 ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/23_Time-Series-Prediction.ipynb))
 ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/23_Time-Series-Prediction.ipynb))
+- [youtube blue](https://android-apk.org/com.bvanced.android.youtube/40046501-youtube-blue/)
 
 ## Tutorials for TensorFlow 1
 
